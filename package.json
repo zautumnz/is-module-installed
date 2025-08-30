@@ -3,9 +3,7 @@
   "description": "Check if a module is installed in your project",
   "version": "2.0.21",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -15,22 +13,22 @@
     "test:lint": "standard",
     "test:tape": "node index.test.js"
   },
-  "homepage": "https://github.com/zacanger/is-module-installed#readme",
+  "homepage": "https://github.com/zautumnz/is-module-installed#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/is-module-installed.git"
+    "url": "https://github.com/zautumnz/is-module-installed.git"
   },
-  "bugs": "https://github.com/zacanger/is-module-installed/issues",
+  "bugs": "https://github.com/zautumnz/is-module-installed/issues",
   "keywords": [
     "installed",
     "module"
   ],
   "devDependencies": {
-    "sortpack": "2.3.2",
-    "standard": "17.0.0",
-    "tape": "5.6.1"
+    "sortpack": "2.4.0",
+    "standard": "17.1.2",
+    "tape": "5.9.0"
   },
   "engines": {
-    "node": ">=10.0.0"
+    "node": ">=24.0.0"
   }
 }
